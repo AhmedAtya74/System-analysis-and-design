@@ -119,15 +119,15 @@ Additional Requirements Categories:
 
 Requirements Categories:
 
-1. Design constraints describe restrictions to which the hardware and software must adhere.
+1. Design constraints: describe restrictions to which the hardware and software must adhere.
 
-2. Implementation requirements describe constraints such as required programming languages and tools.
+2. Implementation requirements: describe constraints such as required programming languages and tools.
 
-3. Interface requirements describe interactions among systems.
+3. Interface requirements: describe interactions among systems.
 
-4. Physical requirements describe such characteristics of hardware as size, weight, power consumption, and operating conditions.
+4. Physical requirements: describe such characteristics of hardware as size, weight, power consumption, and operating conditions.
 
-5. Supportability requirements describe how a system is installed, configured, monitored, and updated.
+5. Supportability requirements: describe how a system is installed, configured, monitored, and updated.
 
 
 
