@@ -69,6 +69,8 @@ If system requirements tend to expand as users make more suggestions called SCOP
 Users tend to be uncertain of many aspects of system requirements. Such requirements
 models as use cases, activity diagrams, and interaction diagrams can be developed based on user input, but it is often difficult for users to interpret and validate such abstract models.
 
+requirements models as use cases, activity diagrams, and interaction diagrams
+
 In comparison, user validation of a user interface is much simpler and more
 reliable because the user can see and feel the system. To most users, the user
 interface is all that matters. Thus, developing user-interface dialogs is a powerful
