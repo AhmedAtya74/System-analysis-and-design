@@ -17,8 +17,6 @@ Six core processes for system development life cycle (SDLC):
 
 This blog concentrates on systems analysis activities (Core Process 3) and cover a wider range of concepts, tools, and techniques.
 
-Terminology:
-
 Technology architecture:
 
 the set of computing hardware, network hardware and topology, and system software—such as operating and database management systems employed by an organization
@@ -78,4 +76,58 @@ method of eliciting and documenting requirements.
 
  5- Evaluate requirements with users:
  
- The processes of eliciting requirements, building models and prototypes, and evaluating them with users may repeat many times until requirements models and prototypes are complete and accurate.
+The processes of eliciting requirements, building models and prototypes, and evaluating them with users may repeat many times until requirements models and prototypes are complete and accurate.
+ 
+System Requirements and FURPS:
+ 
+System requirements are all the activities the new system must perform or support and the constraints that the new system must meet.
+
+System requirements are divided into two categories:
+
+1- functional requirements
+
+Functional requirements are the activities that the system must perform (i.e., the business uses to which the system will be applied).
+
+Identifying and describing all these business uses require a substantial amount of time and effort because the list of functions and their dependencies can be very complex.
+
+The functional requirements were defined by the list of use cases in general, but functional requirements are also based on the procedures and rules that an organization uses to run its business.
+
+Discovering such rules is critical to the final design of the system. If this rule were not discovered, customers who had reliedon it in the past might become angry. Modifying the system after customers start complaining is much more difficult and expensive than building in the rule from the start.
+
+
+2- nonfunctional requirements
+
+Nonfunctional requirements are characteristics of the system other than those activities it must perform or support.
+
+It is not always easy to distinguish functional from nonfunctional requirements  One way to do so is to use a framework for identifying and classifying requirements.
+
+FURPS is an acronym that stands for functional, usability, reliability, performance, and security. The F in FURPS is equivalent to the functional requirements defined previously.
+
+The remaining categories (URPS) describe nonfunctional requirements as follows:
+
+1. usability requirements: describe operational characteristics related to users, such as the user interface, related work procedures, online help, and documentation.
+
+2. Reliability requirements describe the dependability of a system—how often a system exhibits such behaviors as service outages and incorrect processing and how it detects and recovers from those problems.
+
+3. Performance requirements describe operational characteristics related to measures of workload, such as throughput and response time.
+
+4. Security requirements describe how access to the application will be controlled and how data will be protected during storage and transmission. 
+
+Additional Requirements Categories:
+
+FURPS+: is an extension of FURPS that adds additional categories, including design constraints as well as implementation, system interface, physical, and supportability requirements.
+
+Requirements Categories:
+
+1. Design constraints describe restrictions to which the hardware and software must adhere.
+
+2. Implementation requirements describe constraints such as required programming languages and tools.
+
+3. Interface requirements describe interactions among systems.
+
+4. Physical requirements describe such characteristics of hardware as size, weight, power consumption, and operating conditions.
+
+5. Supportability requirements describe how a system is installed, configured, monitored, and updated.
+
+
+
