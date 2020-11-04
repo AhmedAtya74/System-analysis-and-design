@@ -1,5 +1,7 @@
 Chapter Two: Investigating System Requirements
 
+This blog concentrates on systems analysis activities (Core Process 3) and cover a wider range of concepts, tools, and techniques.
+
 Six core processes for system development life cycle (SDLC):
 
  1. Identify the problem and obtain approval.
@@ -14,8 +16,6 @@ Six core processes for system development life cycle (SDLC):
 
  6. Complete system tests and then deploy the solution.
 	
-
-This blog concentrates on systems analysis activities (Core Process 3) and cover a wider range of concepts, tools, and techniques.
 
 Technology architecture:
 
