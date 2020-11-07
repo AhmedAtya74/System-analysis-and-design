@@ -100,13 +100,17 @@ the activities of the third core process, which is to discover and understand th
 
  ##### The remaining categories (URPS) describe nonfunctional requirements as follows:
 
-1. usability requirements: describe operational characteristics related to users, such as the user interface, related work procedures, online help, and documentation.
+#### 2.1. usability requirements: 
+describe operational characteristics related to users, such as the user interface, related work procedures, online help, and documentation.
 
-2. Reliability requirements describe the dependability of a system—how often a system exhibits such behaviors as service outages and incorrect processing and how it detects and recovers from those problems.
+#### 2.2. Reliability requirements:
+describe the dependability of a system—how often a system exhibits such behaviors as service outages and incorrect processing and how it detects and recovers from those problems.
 
-3. Performance requirements describe operational characteristics related to measures of workload, such as throughput and response time.
+#### 2.3. Performance requirements:
+describe operational characteristics related to measures of workload, such as throughput and response time.
 
-4. Security requirements describe how access to the application will be controlled and how data will be protected during storage and transmission. 
+#### 5.4. Security requirements:
+describe how access to the application will be controlled and how data will be protected during storage and transmission. 
 
 ### Additional Requirements Categories:
 
@@ -150,42 +154,42 @@ The project team includes the client in its list of important stakeholders becau
 
 #### Information-Gathering Techniques:
 
-1. Interviewing users and other stakeholders:
+#### 1. Interviewing users and other stakeholders:
 
 Interviewing is an effective way to understand business functions and business rules.
 
 Systems analysts do:
 
-1. Prepare detailed questions.
+#### 1.1. Prepare detailed questions.
 
-2. Meet with individuals or groups of users.
+#### 1.2. Meet with individuals or groups of users.
 
-3. Obtain and discuss answers to the questions.
+#### 1.3. Obtain and discuss answers to the questions.
 
-4. Document the answers.
+#### 1.4. Document the answers.
 
-5. Follow up as needed in future meetings or interviews.
+#### 1.5. Follow up as needed in future meetings or interviews.
 
 This process may take some time, so it usually requires multiple sessions with each of the users.
 
-1. Question Themes:
+#### 1. Question Themes:
 
-    Three major themes that guide the analysts when they are asking questions to define system requirements:
+Three major themes that guide the analysts when they are asking questions to define system requirements:
 
-    1. What Are the Business Processes?
+#### 1.1 What Are the Business Processes?
 
-    The analyst must obtain a comprehensive list of all the business processes and carefully discern which of those functions are fundamental and which may possibly 		 
-  	be eliminated.
+The analyst must obtain a comprehensive list of all the business processes and carefully discern which of those functions are fundamental and which may possibly 		 
+be eliminated.
 
-    2. How Are the Business Processes Performed?
+#### 1.2 How Are the Business Processes Performed?
 
-    Determining how business processes are performed.
+Determining how business processes are performed.
 
-    The goal is to define how the new system should support the function rather than how it supports it now.
+The goal is to define how the new system should support the function rather than how it supports it now.
 
-    The analyst must be able to help the user visualize new and more efficient approaches to performing the business processes.
+The analyst must be able to help the user visualize new and more efficient approaches to performing the business processes.
 
-  3. What Information Is Required?
+#### 1.3. What Information Is Required?
 
   Some information inputs are formal; others are informal.
 
@@ -193,44 +197,45 @@ This process may take some time, so it usually requires multiple sessions with e
 
   An analyst must understand the nitty-gritty detail to develop a correct solution. 	 
 
-   2. Question Types:
+   ### 2. Question Types:
 
-		1. open-ended questions: encourage discussion and explanation —such as “How do you do this function?”.
+#### 2.1. open-ended questions: 
+encourage discussion and explanation —such as “How do you do this function?”.
 
-		2. closed-ended questions: are used to get specific facts —such as “How many forms a day do you process?”.
+#### 2.2. closed-ended questions: 
+are used to get specific facts —such as “How many forms a day do you process?”.
 
-		3. Focus of Questions—Current System or New?
+#### 2.3. Focus of Questions—Current System or New?
 
-		 A significant question that faces all analysts is how much effort to expend studying and documenting the existing system.
+ A significant question that faces all analysts is how much effort to expend studying and documenting the existing system.
 
-		 if a new system inherits many or all of the requirements of an existing system, then an analyst risks missing important requirements through insufficient study of the 
+ if a new system inherits many or all of the requirements of an existing system, then an analyst risks missing important requirements through insufficient study of the 
 
-	    existing system. To minimize both risks, analysts must balance the review of current business functions with discovery of new system requirements.
+existing system. To minimize both risks, analysts must balance the review of current business functions with discovery of new system requirements.
 
- 4. Interview Preparation, Conduct, and Follow-Up: is a sample checklist that summarizes the major points to be covered
+###  4. Interview Preparation, Conduct, and Follow-Up: is a sample checklist that summarizes the major points to be covered
 
-	1. Preparing for the Interview:
+#### 4.1. Preparing for the Interview:
+The first and most important step in preparing for an interview is to determine what you want to accomplish with this interview. Write down the objective and  		
+determine which stakeholders should be interviewed.
 
-	  The first and most important step in preparing for an interview is to determine what you want to accomplish with this interview. Write down the objective and  		
-		determine which stakeholders should be interviewed.
+ #### 4.2. Conducting the Interview:
+ Limit the time of the interview for the benefit of the analyst(s) and stakeholder(s); stakeholders have other responsibilities, and the analysts can absorb onlyso
+ much information at one time. It is better to have several shorter interviews than one long interview and data analyst must Look for exception and error                          conditions. Look for opportunities to ask “what if” questions
 
-	2. Conducting the Interview:
-		 Limit the time of the interview for the benefit of the analyst(s) and stakeholder(s); stakeholders have other responsibilities, and the analysts can absorb onlyso
-		 much information at one time. It is better to have several shorter interviews than one long interview and data analyst must Look for exception and error                          conditions. Look for opportunities to ask “what if” questions
-
-	3. Following up the Interview:
-
-	Follow-up is an important part of each interview. The first task is to absorb, understand, and document the information that was obtained. Generally, analysts document             the details of the interview by constructing models of the business processes and writing textual descriptions of nonfunctional requirements.
+#### 4.3. Following up the Interview:
+Follow-up is an important part of each interview. The first task is to absorb, understand, and document the information that was obtained. Generally, analysts document             the details of the interview by constructing models of the business processes and writing textual descriptions of nonfunctional requirements.
 
 
-2. Distribute and Collect Questionnaires: Questionnaires enable analysts to collect information from a large number of stakeholders.
+#### 2. Distribute and Collect Questionnaires: 
+Questionnaires enable analysts to collect information from a large number of stakeholders.
 
- Questionnaires are often used to obtain preliminary insight into stakeholder information needs, which helps to determine areas that need further research using other 		 methods.
+Questionnaires are often used to obtain preliminary insight into stakeholder information needs, which helps to determine areas that need further research using other 		 methods.
 
  three types of questions:
  The first part has closed-ended questions to determine quantitative information. The second part consists of opinion questions in which respondents are asked whether 		they agree or disagree with the statement. Both types of questions are useful for tabulating and determining quantitative averages. The third part requests an 			explanation of a procedure or problem.
 
-3. Review Inputs, Outputs, and Procedures:
+#### 3. Review Inputs, Outputs, and Procedures:
 
 There are two sources of information about inputs, outputs, and procedures. One source is external to the organization—industry-wide professional organizations and other 	  
 companies. It may not be easy to obtain information from other companies.
@@ -238,32 +243,34 @@ companies. It may not be easy to obtain information from other companies.
  Reviewing internal documents and procedures serves two purposes. First, it is a good way to get a preliminary understanding of the processes. existing inputs, outputs, 	  
  and documents can serve as visual aids for the interview.
 
-4. Observe and Document Business Processes:
+#### 4. Observe and Document Business Processes:
 
  observing a business process in action will help you understand the business functions. However, while observing existing processes, you must also be able to visualize 	  
  the new system’s associated business processes.
 
-Models and Modeling:
+### Models and Modeling:
 
 Modeling is an important part of systems analysis and design and  Analysts build models to describe system requirements and use those models to communicate with
 
 users and designers to ensure an understanding of the user’s requirements.
 
-model: representation or abstraction of some aspect of a system.
+#### model: 
+representation or abstraction of some aspect of a system.
 
 Analysis and design models can be grouped into three generic types:
 
-1. textual models: text-based system models such as memos, reports, narratives, and lists to describe requirements that are detailed.
+#### 1. textual models: text-based system models such as memos, reports, narratives, and lists to describe requirements that are detailed.
 
-2. graphical models: system models that use pictures and other graphical elements to create a diagram it's easier to user.
+#### 2. graphical models: system models that use pictures and other graphical elements to create a diagram it's easier to user.
 
-3. mathematical models system models that describes requirements numerically or as mathematical expressions
+#### 3. mathematical models system models that describes requirements numerically or as mathematical expressions
 
 Many graphical models used in system development are drawn according to the notation specified by the Unified Modeling Language (UML).
 
-Unified Modeling Language (UML): a standard set of information system model constructs and notations defined by the Object Management Group.
+#### Unified Modeling Language (UML):
+a standard set of information system model constructs and notations defined by the Object Management Group.
 
-Documenting Workflows with Activity Diagrams: 
+### Documenting Workflows with Activity Diagrams: 
 
 As you gather information about business processes, you will need to document your results as a workflow. A workflow is the sequence of work steps that complete one business     
 transaction or customer request.
@@ -272,74 +279,9 @@ One effective way to capture this information is with a UML activity diagram.
 
 An activity diagram describes the various user (or system) activities, the person or component that completes each activity, and the sequential flow of these activities.
 
-Synchronization bar: an activity diagram component that either splits a control path into multiple concurrent paths or recombines concurrent paths.
+#### Synchronization bar: an activity diagram component that either splits a control path into multiple concurrent paths or recombines concurrent paths.
 
 Swimlane an activity diagram component that divides the workflow activities into groups showing which agent performs which activity.
-
-
-
-
-
-
-
- 
-
-	 
-	 
-	 
-  	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
