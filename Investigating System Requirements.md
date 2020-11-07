@@ -1,8 +1,8 @@
-Chapter Two: Investigating System Requirements
+# Chapter Two: Investigating System Requirements
 
 This blog concentrates on systems analysis activities (Core Process 3) and cover a wider range of concepts, tools, and techniques.
 
-Six core processes for system development life cycle (SDLC):
+### Six core processes for system development life cycle (SDLC):
 
  1. Identify the problem and obtain approval.
 
@@ -22,11 +22,11 @@ Technology architecture: the set of computing hardware, network hardware and top
 Application architecture: the set of information systems (the software applications) the organization needs to support its strategic plan.
 
 
-Systems Analysis Activities:
+### Systems Analysis Activities:
 
 the activities of the third core process, which is to discover and understand the details, The activities are as follows:
 
- 1. Gather detailed information:
+ #### 1. Gather detailed information:
  
  Systems analysts obtain information from people who will be using the system and 
  read nearly everything available about the existing system and obtain additional information by reviewing planning documents
@@ -35,7 +35,7 @@ the activities of the third core process, which is to discover and understand th
  The analyst must become an expert in the business area the system will support.
  For example, if you are implementing an order-entry system, you need to become an expert on the way orders are processed
  
- 2. Define requirements:
+ #### 2. Define requirements:
 
  The analyst uses information gathered from users and documents to define
  requirements for the new system. System requirements include the functions the
@@ -44,7 +44,7 @@ the activities of the third core process, which is to discover and understand th
  Instead, the analyst creates models to record requirements, reviews the models with users and others, and refines and expands the models to reflect new
  or updated information
  
- 3. Prioritize requirements:
+ #### 3. Prioritize requirements:
  
  Once the system requirements are well understood, it is important to establish
  which requirements are most crucial for the system. Sometimes, users request
@@ -57,7 +57,7 @@ the activities of the third core process, which is to discover and understand th
 
  If system requirements tend to expand as users make more suggestions called SCOPE CREEP
 
- 4. Develop user-interface dialogs:
+ #### 4. Develop user-interface dialogs:
  
  Users tend to be uncertain of many aspects of system requirements. Such requirements
  models as use cases, activity diagrams, and interaction diagrams can be developed based on user input, but it is often difficult for users to interpret and validate such         abstract models.
@@ -69,17 +69,17 @@ the activities of the third core process, which is to discover and understand th
  interface is all that matters. Thus, developing user-interface dialogs is a powerful
  method of eliciting and documenting requirements.
 
- 5. Evaluate requirements with users:
+ #### 5. Evaluate requirements with users:
  
  The processes of eliciting requirements, building models and prototypes, and evaluating them with users may repeat many times until requirements models and prototypes are         complete and accurate.
  
-System Requirements and FURPS:
+### System Requirements and FURPS:
  
  System requirements are all the activities the new system must perform or support and the constraints that the new system must meet.
 
  System requirements are divided into two categories:
 
- 1. functional requirements
+ #### 1. functional requirements
 
  Functional requirements are the activities that the system must perform (i.e., the business uses to which the system will be applied).
 
@@ -90,7 +90,7 @@ System Requirements and FURPS:
  Discovering such rules is critical to the final design of the system. If this rule were not discovered, customers who had reliedon it in the past might become angry. Modifying   the system after customers start complaining is much more difficult and expensive than building in the rule from the start.
 
 
- 2. nonfunctional requirements
+ #### 2. nonfunctional requirements
 
  Nonfunctional requirements are characteristics of the system other than those activities it must perform or support.
 
@@ -98,7 +98,7 @@ System Requirements and FURPS:
 
  FURPS is an acronym that stands for functional, usability, reliability, performance, and security. The F in FURPS is equivalent to the functional requirements defined             previously.
 
- The remaining categories (URPS) describe nonfunctional requirements as follows:
+ ##### The remaining categories (URPS) describe nonfunctional requirements as follows:
 
 1. usability requirements: describe operational characteristics related to users, such as the user interface, related work procedures, online help, and documentation.
 
@@ -108,7 +108,7 @@ System Requirements and FURPS:
 
 4. Security requirements describe how access to the application will be controlled and how data will be protected during storage and transmission. 
 
-Additional Requirements Categories:
+### Additional Requirements Categories:
 
  FURPS+: is an extension of FURPS that adds additional categories, including design constraints as well as implementation, system interface, physical, and supportability           requirements.
 
@@ -125,7 +125,7 @@ Requirements Categories:
 5. Supportability requirements: describe how a system is installed, configured, monitored, and updated.
 
 
-Stakeholders:
+### Stakeholders:
 
 Stakeholders are your primary source of information for system requirements, who have an interest in the successful implementation of the system. Depending on the nature and scope of the system.
 
@@ -133,7 +133,7 @@ Each stakeholder group interacts with the system in different ways, and each has
 
 gathering detailed information, the analyst identifies every type of stakeholder who has an interest in the new system.
 
-Stakeholder category:
+#### Stakeholder category:
  1. internal stakeholders:
    persons within the organization who interact with the system or have a significant interest in its operation or success.
 
@@ -143,11 +143,12 @@ Stakeholder category:
 
 4. executive stakeholders persons who don’t interact directly with the system but who either use information produced by the system or have a significant financial or other interest in its operation and success.
 
-clients: a person or group that provides the funding for the system development project.
+### clients: 
+a person or group that provides the funding for the system development project.
 
 The project team includes the client in its list of important stakeholders because the team must provide periodic status reviews to the client throughout development. 
 
-Information-Gathering Techniques:
+#### Information-Gathering Techniques:
 
 1. Interviewing users and other stakeholders:
 
