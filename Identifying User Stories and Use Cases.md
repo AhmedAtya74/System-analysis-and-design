@@ -65,7 +65,7 @@ These events are different from external events in that the system should **auto
 
 The analyst begins identifying temporal events by asking about **specific deadlines** that the system must accommodate. **What outputs are produced at that deadline? What other processing might be required at that deadline?**
 
-Temporal events **do not have to occur on a fixed date.** They can occur **after a defined period of time has elapsed. For example, a bill might be given to a customer when a sale has occurred. If the bill has not been paid within 15 days, the system might send a late notice.
+Temporal events **do not have to occur on a fixed date.** They can occur **after a defined period of time has elapsed. For example, a bill might be given to a customer when a sale has occurred. If the bill has not been paid within 15 days, the system might send a late notice.**
 
 #### 3. State Events: an event that occurs when something happens inside the system that triggers some process.
 **State events are also called "internal" events.**
