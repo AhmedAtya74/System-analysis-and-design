@@ -57,7 +57,7 @@ customer pays a bill, Send late notices)
 To identify the key external events, the analyst first tries to identify all the external agents that might want something from the system.
 When describing external events, it is important to **name the event** so the external agent is clearly defined. The description should also include the **action** that the external agent wants to pursue.
 
-**Important external events** can also result from the wants and needs of ** people or organizational units inside the company**
+**Important external events** can also result from the wants and needs of **people or organizational units inside the company**
 
 #### 2.Temporal Events: an event that occurs as a result of reaching a point in time(ex. at point in time system will send notify to user about specfic somthing).
 
