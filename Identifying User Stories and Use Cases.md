@@ -19,7 +19,7 @@ satisfied with the resulting implementation. **They focus on functionality, *not
  
  ### Use Cases and the User Goal Technique:
  
-The most **common** technique for identifying use cases is the event decomposition technique.
+The most **common** technique for identifying use cases.
 
 User stories will help analysts identify and define use cases.
 One approach to identifying use cases, called the **user goal technique:** is to ask users to describe their goals for using the new or updated system.
