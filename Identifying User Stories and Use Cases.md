@@ -45,7 +45,7 @@ The most **comprehensive** technique for identifying use cases.
  **Event:** occurs at a specific time and place, can be described, and should be remembered by the system.
  
 ***Event Decomposition Technique:***
-When defining the requirements for a system, it is useful to begin by asking, “What business events occur that will require the system to respond?”, (ex. A customer triggers three events:
+When defining the requirements for a system, it is useful to begin by asking, “What business events occur that will require the system to respond?”, (ex. A customer triggers two events:
 customer pays a bill, Send late notices)
 
 
