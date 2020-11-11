@@ -36,7 +36,7 @@ One approach to identifying use cases, called the **user goal technique:** is to
 
 
 ### Use Cases and Event Decomposition Technique:
-The most **comprehensive** technique for identifying use cases is the event decomposition technique.
+The most **comprehensive** technique for identifying use cases.
 
 **The event decomposition technique:** begins by identifying all the business events the information system responds to, with each event leading to a use case, (ex. customer wants to update some info).
 
