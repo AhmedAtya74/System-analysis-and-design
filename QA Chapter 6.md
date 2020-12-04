@@ -39,3 +39,18 @@ Ever-improving technology expands and changes user-interface requirements. A dec
 > - 1. The sender and receiver use the same key, which must be created and shared securely
 > - 2. Security is compromised if the key is transmitted over the same channel as messages encrypted with the key
 > - 3. Sharing a key among many users increases the possibility of key theft
+
+
+
+## TIPS:
+**Access Controls:** A control that limits a user's ability to access resources, such as servers, files, Web pages, application programs, and database tables.
+
+**Access control list:** A list attached or linked to a specific resource that describes users or user groups and the nature of permitting access.
+
+**Fraud Prevention:** Prevent it. 
+
+**Fraud triangle:** a model of fraud that states that opportunity, motivation, and rationalization must all exist for a fraud to occur
+
+
+
+
