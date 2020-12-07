@@ -8,6 +8,12 @@
 > > - **Shared data:** Use cases that interact with the same domain class(es) are candidates for grouping into a single application component.
 > > - **Events:** Use cases that are triggered by the same external, temporal, or state event are candidates for grouping into a single application component.
 
+## Application Component Integration:
+> ### Most SaaS developers take one or more of three approaches to data inflow from other systems:
+> - **Batch data export and import**
+> - **Data import via Web services**
+> - **Direct access to commonly used third-party applications**
+
 Is hierarchical system of name-servers that maps host-domain name combinations to IP addresses → **Domain name service**
 
 Applications that address the needs of multiple users throughout an organization or work group → **Enterprise Software**
