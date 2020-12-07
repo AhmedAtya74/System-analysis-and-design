@@ -17,12 +17,12 @@ This blog concentrates on systems analysis activities (Core Process 3) and cover
  6. Complete system tests and then deploy the solution.
 	
 
-Technology architecture: the set of computing hardware, network hardware and topology, and system software—such as operating and database management systems employed by an organization
+**Technology architecture:** the set of computing hardware, network hardware and topology, and system software—such as operating and database management systems employed by an organization
 		 
-Application architecture: the set of information systems (the software applications) the organization needs to support its strategic plan.
+**Application architecture:** the set of information systems (the software applications) the organization needs to support its strategic plan.
 
 
-### Systems Analysis Activities:
+> ### Systems Analysis Activities:
 
 the activities of the third core process, which is to discover and understand the details, The activities are as follows:
 
@@ -98,7 +98,7 @@ the activities of the third core process, which is to discover and understand th
 
  FURPS is an acronym that stands for functional, usability, reliability, performance, and security. The F in FURPS is equivalent to the functional requirements defined             previously.
 
- ##### The remaining categories (URPS) describe nonfunctional requirements as follows:
+##### The remaining categories (URPS) describe nonfunctional requirements as follows:
 
 #### 2.1. usability requirements: 
 describe operational characteristics related to users, such as the user interface, related work procedures, online help, and documentation.
@@ -114,9 +114,9 @@ describe how access to the application will be controlled and how data will be p
 
 ### Additional Requirements Categories:
 
- FURPS+: is an extension of FURPS that adds additional categories, including design constraints as well as implementation, system interface, physical, and supportability           requirements.
+ **FURPS+:** is an extension of FURPS that adds additional categories, including design constraints as well as implementation, system interface, physical, and supportability           requirements.
 
-Requirements Categories:
+#### Requirements Categories:
 
 1. Design constraints: describe restrictions to which the hardware and software must adhere.
 
