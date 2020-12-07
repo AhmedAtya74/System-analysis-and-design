@@ -51,6 +51,16 @@ Ever-improving technology expands and changes user-interface requirements. A dec
 
 **Fraud triangle:** a model of fraud that states that opportunity, motivation, and rationalization must all exist for a fraud to occur
 
+**IP Security (IPSec):** Internet standard for secure transmission of low-level network packets.
 
+**Digital Certificate:** An institutions name and public key encrypted and certified by a third party
+
+**Digital Signature:** Technique in which a document is encrypted by using a private key to verify who wrote the document
+
+**Remote Wipe:** A security measure that automatically deletes sensitive data from a portable device when unauthorized accesses are attempted
+
+**Cowboy Coding:** A developer who jumps into writing software without carefully thinking it through ends up with errors, patches, and systems that are unreliable and difficult to update
+
+**Design Activity Inputs:** Consist of the models that were built during analysis
 
 
