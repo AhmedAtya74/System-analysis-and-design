@@ -52,7 +52,7 @@ It is important to describe not just the multiplicity but also the range of poss
 For example, a particular customer might not ever place an order. In this case, there are zero associations. Alternatively, the customer might place one order, meaning one association exists. Finally, the customer might place two, three, or even more orders. The relationship for a customer placing an order can have a
 range of zero, one, or more, usually indicated as zero or more. The zero is the minimum multiplicity, and more is the maximum multiplicity. These terms are referred to as multiplicity constraints.
 
-
+# STUDY UML DIAGRAM such as use cases, class diagram, sequence diagram, activity diagram, state machine diagram 
 .
 
 
