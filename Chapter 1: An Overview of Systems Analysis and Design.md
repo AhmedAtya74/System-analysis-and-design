@@ -55,3 +55,6 @@ Remember that an information system includes people and their manual procedures 
 > 2. taking a small portion and developing it first, the most difficult problems can be identified and addressed early in the project.
 
 **NOTE:** A key element of iterative development is dividing system components into pieces that can be completed in two to four weeks.
+
+### Waterfall Development
+Reguirments is clear at the beginning 
