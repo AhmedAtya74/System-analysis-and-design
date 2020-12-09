@@ -90,7 +90,7 @@ the activities of the third core process, which is to discover and understand th
  Discovering such rules is critical to the final design of the system. If this rule were not discovered, customers who had reliedon it in the past might become angry. Modifying   the system after customers start complaining is much more difficult and expensive than building in the rule from the start.
 
 
- #### 2. nonfunctional requirements
+ > - #### 2. nonfunctional requirements
 
  Nonfunctional requirements are characteristics of the system other than those activities it must perform or support.
 
@@ -98,18 +98,18 @@ the activities of the third core process, which is to discover and understand th
 
  FURPS is an acronym that stands for functional, usability, reliability, performance, and security. The F in FURPS is equivalent to the functional requirements defined             previously.
 
-##### The remaining categories (URPS) describe nonfunctional requirements as follows:
+> - ##### The remaining categories (URPS) describe nonfunctional requirements as follows:
 
-#### 2.1. usability requirements: 
+> - #### 1. usability requirements: 
 describe operational characteristics related to users, such as the user interface, related work procedures, online help, and documentation.
 
-#### 2.2. Reliability requirements:
+> - #### 2. Reliability requirements:
 describe the dependability of a system—how often a system exhibits such behaviors as service outages and incorrect processing and how it detects and recovers from those problems.
 
-#### 2.3. Performance requirements:
+> - #### 3. Performance requirements:
 describe operational characteristics related to measures of workload, such as throughput and response time.
 
-#### 5.4. Security requirements:
+> - #### 4. Security requirements:
 describe how access to the application will be controlled and how data will be protected during storage and transmission. 
 
 ### Additional Requirements Categories:
@@ -137,38 +137,38 @@ Each stakeholder group interacts with the system in different ways, and each has
 
 gathering detailed information, the analyst identifies every type of stakeholder who has an interest in the new system.
 
-#### Stakeholder category:
- 1. internal stakeholders:
+> - #### Stakeholder category:
+> - 1. internal stakeholders:
    persons within the organization who interact with the system or have a significant interest in its operation or success.
 
-2.  External stakeholders are those outside the organization’s control and influence.
+> - 2. External stakeholders are those outside the organization’s control and influence.
 
-3. operational stakeholders persons who regularly interact with a system in the course of their jobs or lives.
+> - 3. operational stakeholders persons who regularly interact with a system in the course of their jobs or lives.
 
-4. executive stakeholders persons who don’t interact directly with the system but who either use information produced by the system or have a significant financial or other interest in its operation and success.
+> - 4. executive stakeholders persons who don’t interact directly with the system but who either use information produced by the system or have a significant financial or other interest in its operation and success.
 
 ### clients: 
 a person or group that provides the funding for the system development project.
 
 The project team includes the client in its list of important stakeholders because the team must provide periodic status reviews to the client throughout development. 
 
-#### Information-Gathering Techniques:
+### Information-Gathering Techniques:
 
-#### 1. Interviewing users and other stakeholders:
+> - #### 1. Interviewing users and other stakeholders:
 
 Interviewing is an effective way to understand business functions and business rules.
 
 Systems analysts do:
 
-#### 1.1. Prepare detailed questions.
+> - #### 1. Prepare detailed questions.
 
-#### 1.2. Meet with individuals or groups of users.
+> - #### 2. Meet with individuals or groups of users.
 
-#### 1.3. Obtain and discuss answers to the questions.
+> - #### 3. Obtain and discuss answers to the questions.
 
-#### 1.4. Document the answers.
+> - #### 4. Document the answers.
 
-#### 1.5. Follow up as needed in future meetings or interviews.
+> - #### 5. Follow up as needed in future meetings or interviews.
 
 This process may take some time, so it usually requires multiple sessions with each of the users.
 
