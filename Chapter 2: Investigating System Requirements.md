@@ -26,7 +26,7 @@ This blog concentrates on systems analysis activities (Core Process 3) and cover
 
 the activities of the third core process, which is to discover and understand the details, The activities are as follows:
 
- #### 1. Gather detailed information:
+> - #### 1. Gather detailed information:
  
  Systems analysts obtain information from people who will be using the system and 
  read nearly everything available about the existing system and obtain additional information by reviewing planning documents
@@ -35,7 +35,7 @@ the activities of the third core process, which is to discover and understand th
  The analyst must become an expert in the business area the system will support.
  For example, if you are implementing an order-entry system, you need to become an expert on the way orders are processed
  
- #### 2. Define requirements:
+ > - #### 2. Define requirements:
 
  The analyst uses information gathered from users and documents to define
  requirements for the new system. System requirements include the functions the
@@ -44,7 +44,7 @@ the activities of the third core process, which is to discover and understand th
  Instead, the analyst creates models to record requirements, reviews the models with users and others, and refines and expands the models to reflect new
  or updated information
  
- #### 3. Prioritize requirements:
+ > - #### 3. Prioritize requirements:
  
  Once the system requirements are well understood, it is important to establish
  which requirements are most crucial for the system. Sometimes, users request
@@ -57,7 +57,7 @@ the activities of the third core process, which is to discover and understand th
 
  If system requirements tend to expand as users make more suggestions called SCOPE CREEP
 
- #### 4. Develop user-interface dialogs:
+ > - #### 4. Develop user-interface dialogs:
  
  Users tend to be uncertain of many aspects of system requirements. Such requirements
  models as use cases, activity diagrams, and interaction diagrams can be developed based on user input, but it is often difficult for users to interpret and validate such         abstract models.
@@ -69,7 +69,7 @@ the activities of the third core process, which is to discover and understand th
  interface is all that matters. Thus, developing user-interface dialogs is a powerful
  method of eliciting and documenting requirements.
 
- #### 5. Evaluate requirements with users:
+> - #### 5. Evaluate requirements with users:
  
  The processes of eliciting requirements, building models and prototypes, and evaluating them with users may repeat many times until requirements models and prototypes are         complete and accurate.
  
