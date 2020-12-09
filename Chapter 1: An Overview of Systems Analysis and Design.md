@@ -12,7 +12,7 @@ Remember that an information system includes people and their manual procedures 
 
 **NOTE:** Systems analysis and design plays an **integral role** in the development of information systems.
 
-> **Systems analyst do:**
+> ### Systems analyst do:
 > - planning, capturing the vision.
 > - understanding details.
 > - specifying needs—before designing and writing the code that satisfies the vision.
@@ -31,7 +31,7 @@ Remember that an information system includes people and their manual procedures 
 
 **System development life cycle (SDLC):** a framework that identifies all the activities required to research, build, deploy, and often maintain an information system.
 
-> ### The six core processes required in the development of any information system:**
+> ### The six core processes required in the development of any information system:
 > - Identify the problem or need and obtain approval
 > - Plan and monitor the project
 > - Discover and understand the details of the problem
