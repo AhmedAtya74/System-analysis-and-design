@@ -39,6 +39,9 @@ To describe the interaction among objects.
 > - ![image](https://user-images.githubusercontent.com/64374947/101832574-52524080-3b40-11eb-833c-1416a1edc2ca.png)
 > - ![image](https://user-images.githubusercontent.com/64374947/101832761-a65d2500-3b40-11eb-98dc-8507c431c946.png)
 
+### Example:
+![image](https://user-images.githubusercontent.com/64374947/101835590-aeb75f00-3b44-11eb-9431-1bab18db0db8.png)
+
 
 ## UML - Activity Diagrams
 describe the **dynamic** aspects of the system.
